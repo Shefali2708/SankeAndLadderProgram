@@ -10,7 +10,7 @@ namespace SnakeAndLadderProgram
         //Variable
         public int Player_Position = 0;
 
-        public void Start_Game()
+        public void Start_Game_UC1()
         {
             Console.WriteLine(" ----- Game Started ----- ");
             Console.WriteLine("Number of Player is Single PLayer");
